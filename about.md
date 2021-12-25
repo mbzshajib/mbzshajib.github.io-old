@@ -1,6 +1,6 @@
 ### **Summary**
 
-Working in the fintech industry, cryptography, and payment ecosystem for more than eight years, and gained proficiency
+Working in the fintech and payment industry for more than eight years, and gained proficiency
 in designing, building scalable systems with agility. I am very passionate to apply my acquired engineering knowledge
 and solve critical business and social problems which will add value to society and help people to have a better life.
 
