@@ -26,7 +26,7 @@ hs_err_pid*
 .bundle
 .jekyll-cache
 .sass-cache
-_site
+testsite
 Gemfile.lock
 
 # Demo Site

@@ -1,6 +1,9 @@
 nav_list_title: Navigation List
 links:
 
+- title: Online CV
+  url: online-cv.html
+
 - title: About
   url: about.html
 
