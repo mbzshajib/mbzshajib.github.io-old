@@ -15,25 +15,20 @@ baseurl:                                       # the subpath of your site, e.g. 
 url: ""          # the base hostname & protocol for your site, e.g. http://example.com
 image: /assets/img/dumbarton.png               # used to generate site link preview
 image_alt: Profile of Shajib    # image description
-
-# =======================================#
-# -----------SITE SETTINGS---------------#
-#========================================#: 
-author: Zaman Shajib 
-profile_image: /assets/img/avatar/cropped.png #/assets/img/avatar/avatar.jpeg 
+author: Zaman Shajib
+profile_image: /assets/img/avatar/cropped.png #/assets/img/avatar/avatar.jpeg
 occupation: Software Engineer
 snippet:
-twitter: 
+twitter:
 github: mbzshajib
 linkedin: mbzshajib
-stackoverflow: 
+stackoverflow:
 website: mbzshajib.github.io
-codepen: 
-medium: 
-email: mbzshajib@gmail.com
-keybase: 
-pgp: 
-ctftime: 
+codepen:
+medium:
+keybase:
+pgp:
+ctftime:
 phonenumber: +88 016 11120220
 
 #========================================#
